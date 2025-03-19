@@ -17,13 +17,13 @@ This is an interactive To-Do List application that allows users to add, edit, an
 
 ## Screenshots
 ### Adding a Task
-![Add Task](screenshots/add-task.png)
+![Add Task](images/screenshots.add-task.png)
 
 ### Editing a Task
-![Edit Task](screenshots/edit-task.png)
+![Edit Task](images/screenshots.edit-task.png)
 
 ### Deleting a Task
-![Delete Task](screenshots/delete-task.png)
+![Delete Task](image/screenshots.delete-task.png)
 
 ## Deployment
 The app is deployed on **GitHub Pages** or **Vercel**:
