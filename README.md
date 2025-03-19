@@ -27,4 +27,4 @@ This is an interactive To-Do List application that allows users to add, edit, an
 
 ## Deployment
 The app is deployed on **GitHub Pages** or **Vercel**:
-- [Live Demo](https://your-username.github.io/todo-list/)
+- [Live Demo](https://jim-27.github.io/portfolio-to-do/)
