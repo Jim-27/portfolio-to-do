@@ -23,7 +23,7 @@ This is an interactive To-Do List application that allows users to add, edit, an
 ![Edit Task](images/screenshots.edit-task.png)
 
 ### Deleting a Task
-![Delete Task](image/screenshots.delete-task.png)
+![Delete Task](images/screenshots.delete-task.png)
 
 ## Deployment
 The app is deployed on **GitHub Pages** or **Vercel**:
